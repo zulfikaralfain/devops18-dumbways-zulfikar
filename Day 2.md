@@ -20,6 +20,7 @@ Perbedaan utama antara IP dinamis dan statis adalah bahwa IP dinamis diberikan o
 
 ![alt text](https://github.com/zulfikaralfain/devops18-dumbways-zulfikar/blob/assets/264198848-ba31c932-2bcb-46f2-b98b-8772fd39fcc4.png?raw=true)
 ![alt text](https://github.com/zulfikaralfain/devops18-dumbways-zulfikar/blob/assets/264923399-b21d987e-bb40-4afc-a2f5-2618d3c36eef.png?raw=true)
+
 **Rancangan sebuah jaringan**
 
 rancangan sebuah jaringan dengan spesifikasi
@@ -27,5 +28,7 @@ rancangan sebuah jaringan dengan spesifikasi
 * Subnet : 255.255.255.0
 * Gateway : 192.168.1.1
 ![alt text](https://github.com/zulfikaralfain/devops18-dumbways-zulfikar/blob/assets/snfasfjoerfwefnooNSOQUWFHQEN.png?raw=true)
+
 **Untuk Diagramnya adalah sebagai berikut**
+
 ![alt text](https://github.com/zulfikaralfain/devops18-dumbways-zulfikar/blob/assets/Diagram%20Jaringan.png?raw=True)
