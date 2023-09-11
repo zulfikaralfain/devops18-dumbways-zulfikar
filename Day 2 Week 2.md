@@ -107,7 +107,7 @@ nano script.sh
 sudo apt install nginx
 ```
 #### Jalankan scrip dengan perintah
-![alt text](https://github.com/zulfikaralfain/devops18-dumbways-zulfikar/blob/assets/Screenshot%20(155).png?raw=true)
+![alt text](https://github.com/zulfikaralfain/devops18-dumbways-zulfikar/blob/assets/Screenshot%20(154).png?raw=true)
 ```
 sh script.sh
 ```
