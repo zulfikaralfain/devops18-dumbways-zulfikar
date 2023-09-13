@@ -1,4 +1,4 @@
-# Day 2 Week 3 Web Server & Reverse Proxy
+# Day 3 Week 2 Web Server & Reverse Proxy
 # Web Server & Reverse Proxy
 ## Buat 1 VM tambahan untuk nginx saja (Opsional)
 Melakukan manipulasi pada sebuah file menggunakan terminal, tanpa menggunakan teks editor seperti nano.
